@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="122151" started-at="2014-09-02T07:27:41Z" finished-at="2014-09-02T07:29:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="122151" started-at="2014-09-02T07:27:41Z" finished-at="2014-09-02T07:29:43Z">
+      <class name="com.sauce.Mytest.SauceTest">
+        <test-method status="PASS" signature="Saucetest()[pri:0, instance:com.sauce.Mytest.SauceTest@6870a688]" name="Saucetest" duration-ms="121779" started-at="2014-09-02T12:57:41Z" finished-at="2014-09-02T12:59:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Saucetest -->
+        <test-method status="PASS" signature="killdriver()[pri:0, instance:com.sauce.Mytest.SauceTest@6870a688]" name="killdriver" is-config="true" duration-ms="344" started-at="2014-09-02T12:59:43Z" finished-at="2014-09-02T12:59:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killdriver -->
+      </class> <!-- com.sauce.Mytest.SauceTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
